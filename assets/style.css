@@ -1,0 +1,26 @@
+.win {
+  color: #34d399;
+  background-color: #34d39919;
+  padding: 0.2em 0.5em;
+  border-radius: 0.5em;
+  font-weight: 600;
+  font-size: medium;
+}
+
+.loss {
+  color: #fb7185;
+  background-color: #fb718519;
+  padding: 0.2em 0.5em;
+  border-radius: 0.5em;
+  font-weight: 600;
+  font-size: medium;
+}
+
+.draw {
+  color: #fbbf24;
+  background-color: #fbbf2419;
+  padding: 0.25em 0.5em;
+  border-radius: 0.5em;
+  font-weight: 600;
+  font-size: medium;
+}
